@@ -21,7 +21,7 @@ hr{
 
 h1{
     margin: 5px;
-    font-size: 40px;
+    font-size: 55px;
 }
 
 table{
@@ -32,8 +32,9 @@ table{
 
 td{
     border: 1px solid darkblue;
-    padding: 10px 70px;
-    color: rgb(91, 142, 252) 
+    padding: 10px 80px;
+    color: rgb(91, 142, 252);
+    font-size: 20px;
 }
 
 .text{
@@ -43,4 +44,9 @@ td{
 
 .text h2{
     margin-bottom: 30px;
+    font-size: 40px;
+}
+
+.text p{
+    font-size: 20px;
 }

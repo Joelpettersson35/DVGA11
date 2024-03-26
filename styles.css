@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(217, 218, 250);
+    font-family: sans-serif;
+    color: darkblue;
+    
+}
+
+main{
+    display: flex;
+}
+
+hr{
+    border-top: 1px solid darkblue
+}
+
+h1{
+    margin: 5px;
+    font-size: 40px;
+}
+
+table{
+    margin: 15px 5px ;
+    border: 1px solid darkblue;
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px solid darkblue;
+    padding: 10px 70px;
+    color: rgb(91, 142, 252) 
+}
+
+.text{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.text h2{
+    margin-bottom: 30px;
+}

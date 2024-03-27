@@ -1,4 +1,5 @@
 
+
 .ruta-1{
     background-color: rgb(252, 172, 167);
     color: rgb(105, 21, 15);
@@ -12,6 +13,37 @@
 }
 
 .ruta-3{
+    background-color: rgb(225, 245, 245);
+    color: rgb(37, 77, 77);
+    border-radius: 5px;
+}
+
+.ruta-4{
+    background-color: rgb(250, 232, 182);
+    color: rgb(74, 74, 11);
+    border-radius: 5px;
+}
+
+
+.ruta-5{
+    background-color: rgb(209, 209, 207);
+    color: rgb(73, 74, 71);
+    border-radius: 5px;
+}
+
+.ruta-6{
+    background-color: rgb(252, 172, 167);
+    color: rgb(105, 21, 15);
+    border-radius: 5px;
+}
+
+.ruta-7{
+    background-color: rgb(200, 230, 206);
+    color: rgb(66, 82, 69);
+    border-radius: 5px;
+}
+
+.ruta-8{
     background-color: rgb(225, 245, 245);
     color: rgb(37, 77, 77);
     border-radius: 5px;
